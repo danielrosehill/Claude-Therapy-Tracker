@@ -1,0 +1,1 @@
+This folder is intended to serve as a place for you to save the outputs which you generate to the user in response to their prompts. The user may wish to periodically group some of these outputs into documents such as PDF.  

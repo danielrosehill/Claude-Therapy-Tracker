@@ -1,0 +1,3 @@
+The purpose of this section of the repository is to gather together planning notes for the users therapy sessions. Planning in this context refers to strategic plans as to the direction of therapy and the challenges that the user wishes to address through therapy. If you engage in planning discussions with the user, then you may document those here. 
+
+Planning discussions may include, for example, suggesting specific forms of therapy to the user. Or coming up with suggestions for how they can frame discussions about treatment plans with their therapist. 

@@ -1,0 +1,1 @@
+If you aren't sure where a particular output that you generate should be routed and stored in the repository, then you may put it here. 

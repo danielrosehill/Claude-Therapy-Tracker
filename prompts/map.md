@@ -1,0 +1,1 @@
+This part of the repository consists of an archive of prompts which the user has run. You may occasionally wish to review this material for extracting context data from previous prompts, or to move finished prompts into the Run folder, which is effectively in Archive. 

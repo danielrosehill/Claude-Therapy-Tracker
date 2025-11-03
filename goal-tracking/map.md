@@ -1,0 +1,1 @@
+The objective of this folder in the repository Is to centralized the store of information about the users Objectives in pursuing therapy. These objectives might be short term, medium term, or long term in nature. You may wish to assist them with organizing their goals by organizing these documents into folders according to the time frame envisioned. 
