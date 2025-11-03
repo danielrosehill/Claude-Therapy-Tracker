@@ -1,5 +1,10 @@
 # Claude Therapy Tracker (Template)
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Enabled-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+
+[![Claude Code Projects Index](https://img.shields.io/badge/Claude%20Code%20Projects-Index-8B5CF6?style=flat-square&logo=anthropic)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Master Index](https://img.shields.io/badge/GitHub-Master%20Index-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 This template is intended to provide a structure for using Claude Code to track therapy appointments and one's mental health in general.
 
 The pattern of using a repository to gather and organize materials isn't revolutionary - but the utility of robust version control and organization extends, I believe, far beyond code generation!
